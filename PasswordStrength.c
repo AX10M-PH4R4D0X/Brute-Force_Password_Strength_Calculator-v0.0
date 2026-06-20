@@ -4,7 +4,7 @@
 #include <ctype.h>
 #include <math.h>
 #include "CharSet.h"
-#define MAX_LEN 30
+#define MAX_LEN 31
 
 
 typedef struct {
